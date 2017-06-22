@@ -1,0 +1,5 @@
+language: java
+sudo: enabled
+dist: trusty
+notifications:
+  webhooks: https://hook.bearychat.com/=bwAQL/travis/574d361258379f72ba229aa3cad414c5
